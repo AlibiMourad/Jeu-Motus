@@ -1,0 +1,10 @@
+                      **** LES REGLES ***              
+                      		                           
+	- Il s'agit de deviner un mot choisi aleatoirement 
+	  par votre ordinateur (au plus 7 coups).          
+											   
+	-Retrouver le mot a choisi ,au hasard , par l'ordinateur dont la première lettre est visible .
+        Le joueur a le droit d'essayer sept fois et il se déclare gagnant s'il trouve le bon mot au 
+        bout de ces sept tentatives                                  
+                                                       
+              LA PREMIERE PLACE EST UN PRIVILEGE !     
