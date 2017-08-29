@@ -1,5 +1,4 @@
-//ce code ne compile que sur editeur GEANY
-// ce code  ne compile que sur windows 8 ou 10 
+
 // by @ alibi mourad et ben amor amani 
 
 #include <stdio.h> 
